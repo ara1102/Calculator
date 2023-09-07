@@ -1,0 +1,10 @@
+C:\Users\Adhira\Documents\ITS\Semester 5\Pemrograman Berbasis Kerangka Kerja B\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\Adhira\Documents\ITS\Semester 5\Pemrograman Berbasis Kerangka Kerja B\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Adhira\Documents\ITS\Semester 5\Pemrograman Berbasis Kerangka Kerja B\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Adhira\Documents\ITS\Semester 5\Pemrograman Berbasis Kerangka Kerja B\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Adhira\Documents\ITS\Semester 5\Pemrograman Berbasis Kerangka Kerja B\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Adhira\Documents\ITS\Semester 5\Pemrograman Berbasis Kerangka Kerja B\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Adhira\Documents\ITS\Semester 5\Pemrograman Berbasis Kerangka Kerja B\Calculator\bin\Debug\Calculator.exe
+C:\Users\Adhira\Documents\ITS\Semester 5\Pemrograman Berbasis Kerangka Kerja B\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Adhira\Documents\ITS\Semester 5\Pemrograman Berbasis Kerangka Kerja B\Calculator\obj\Debug\Calculator.exe
+C:\Users\Adhira\Documents\ITS\Semester 5\Pemrograman Berbasis Kerangka Kerja B\Calculator\obj\Debug\Calculator.pdb
